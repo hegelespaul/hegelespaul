@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hegel Pedroza</h1>
 <h3 align="center">A passionate music composer/ guitarist / media artist / coder from México</h3>
 
-- 🔭 I’m currently working on [a postonal web app](https://guitarrapostonalenlinea.netlify.app/)
+- 🔭 I’m currently working on [a postonal web platform](https://guitarrapostonalenlinea.netlify.app/)
 
 - 🌱 I’m currently learning **Pyhton and Javascript, you never stop to be a student!**
 
-- 🤝 I’m looking for help with [a electric guitar fx dataset new version!](https://egfxset.github.io/)
+- 🤝 I’m looking for help with [an electric guitar fx dataset new version!](https://egfxset.github.io/)
 
 - 👨‍💻 All of my projects are available at [hepedroza.com](hepedroza.com)
 
