@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [hepedroza.com](hepedroza.com)
 
-- 💬 Ask me about **Music Theory!**
+- 💬 Ask me about **Music!**
 
 - 📫 How to reach me **hepv12@gmail.com**
 
