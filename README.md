@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [an electric guitar fx dataset new version!](https://egfxset.github.io/)
 
-- 👨‍💻 All of my projects are available at [hepedroza.com](hepedroza.com)
+- 👨‍💻 Almost all of my projects are available at [hepedroza.com](hepedroza.com)
 
 - 💬 Ask me about **Music!**
 
