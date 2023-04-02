@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a postonal web platform](https://guitarrapostonalenlinea.netlify.app/)
 
-- 🌱 I’m currently learning **Pyhton and Javascript!**
+- 🌱 I’m currently learning **Node**
 
 - 🤝 I’m looking for help with [an electric guitar fx dataset new version!](https://egfxset.github.io/)
 
