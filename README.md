@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hegel Pedroza</h1>
 <h3 align="center">A passionate music composer/ guitarist / media artist / coder from México</h3>
 
-- 🔭 I’m currently working on [a postonal web platform](https://guitarrapostonalenlinea.netlify.app/)
+- 🔭 I’m currently working on [a postonal web platform](https://guitarrapostonalenlinea.netlify.app/) and [a webpage for local musician oportunities](https://musicos-morelis.onrender.com)
 
 - 🌱 I’m currently learning **Node**
 
