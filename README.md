@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [electric guitar transcription models](https://robust-guitar-tabs.github.io/)
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning all about **Pytorch**
 
 - 🤝 I’m looking for help with [a new version of an electric guitar dataset](https://egfxset.github.io/)
 
